@@ -1,0 +1,12 @@
+[submodule "AdminBootstrapShop"]
+	path = AdminBootstrapShop
+	url = https://github.com/Yahbini/AdminBootstrapShop.git
+[submodule "BootstrapAngular"]
+	path = BootstrapAngular
+	url = https://github.com/Yahbini/BootstrapAngular.git
+[submodule "AdminBootstrapShops"]
+	path = AdminBootstrapShops
+	url = https://github.com/Yahbini/AdminBootstrapShop.git
+[submodule "DemoAngular"]
+	path = DemoAngular
+	url = https://github.com/Yahbini/DemoAngular.git
